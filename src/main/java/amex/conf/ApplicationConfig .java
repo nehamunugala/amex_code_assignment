@@ -1,6 +1,6 @@
 package amex.conf;
 
-import amex.code.test.ws.RESTAPITest;
+import amex.ws.RESTAPITest;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
