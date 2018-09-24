@@ -1,4 +1,4 @@
-package amex.code.test.conf;
+package amex.conf;
 
 import amex.code.test.ws.RESTAPITest;
 
